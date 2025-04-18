@@ -34,4 +34,5 @@ Durante o desenvolvimento deste projeto, foram praticados os seguintes conteúdo
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/stackoverflow-clone-xpe.git
+   git clone https://github.com/EdgardMoraes/Clone-Site-Stack-Overflow.git
+   ```
